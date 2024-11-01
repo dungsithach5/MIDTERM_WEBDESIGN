@@ -1,5 +1,5 @@
 # Hotel Website
-
+![Alt text](/img/image.jpg "Optional title")
 ## Team members
 - Huynh Anh Tien
 - Dang Huu Hoc
