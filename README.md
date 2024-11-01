@@ -1,6 +1,10 @@
-# API Documentation
+# Hotel Website
 
-This documentation provides details on the API endpoints used in the project. These endpoints allow access to different resources related to rooms, bookings, guests, and billing.
+## Team members
+- Huynh Anh Tien
+- Dang Huu Hoc
+- Nguyen Huu Nguyen
+- Hoang Dang Hai
 
 ## Table of Contents
 - [Overview](#overview)
