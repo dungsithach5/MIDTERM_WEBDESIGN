@@ -3,7 +3,7 @@
 ## Team members
 - Huynh Anh Tien
 - Dang Huu Hoc
-- Nguyen Huu Nguyen
+- Do Huu Nguyen
 - Hoang Dang Hai
 
 ## Table of Contents
